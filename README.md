@@ -3,7 +3,6 @@
 A Retrieval-Augmented Generation (RAG) chatbot that answers wildfire and disaster governance questions using evidence from indexed research papers. Every answer is grounded in the source material and cited with `[Paper N]` references.
 
 **Live App:** https://rag-frontend-598315421142.us-central1.run.app
-**Backend API:** https://rag-backend-598315421142.us-central1.run.app/api/health
 
 ---
 
