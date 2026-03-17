@@ -1,0 +1,20 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Backend runtime/data artifacts
+backend/.env
+backend/db/
+backend/__pycache__/
+
+# Frontend artifacts
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+
+# Project artifacts
+outputs/
+.DS_Store
+.claude/

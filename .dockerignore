@@ -1,0 +1,18 @@
+# Frontend (not needed for backend build)
+frontend/
+
+# Backend artifacts
+backend/__pycache__
+backend/*.pyc
+backend/.env
+backend/db/
+backend/tests/
+backend/scripts/
+
+# Project
+.venv/
+.git/
+outputs/
+*.egg-info
+__pycache__
+.claude/
